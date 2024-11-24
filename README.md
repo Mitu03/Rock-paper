@@ -1,2 +1,2 @@
 # Rock-paper
-Game
+Basic rock paper game
