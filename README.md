@@ -1,3 +1,3 @@
 # Rock-paper
-Basic rock paper game.
+Basic rock paper games.
 
